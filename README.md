@@ -1,0 +1,1 @@
+# minescape-classic-resourcepack
