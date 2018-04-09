@@ -1,0 +1,174 @@
+{
+    "parent": "item/stone",
+    "overrides": [{
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0006402048656
+            },
+            "model": "item/mobs/scorpion_static"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.001280409731
+            },
+            "model": "item/mobs/scorpion_walking_1"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.001920614597
+            },
+            "model": "item/mobs/scorpion_walking_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.002560819462
+            },
+            "model": "item/mobs/scorpion_attacking"
+        },
+
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.003201024328
+            },
+            "model": "item/mobs/rooster_static"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.003841229193
+            },
+            "model": "item/mobs/rooster_walking_1"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.004481434059
+            },
+            "model": "item/mobs/rooster_walking_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.005121638924
+            },
+            "model": "item/mobs/rooster_attacking"
+        },
+
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00576184379
+            },
+            "model": "item/mobs/camel_static"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.006402048656
+            },
+            "model": "item/mobs/camel_walking_1"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.007042253521
+            },
+            "model": "item/mobs/camel_walking_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.007682458387
+            },
+            "model": "item/mobs/camel_attacking"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.008322663252
+            },
+            "model": "item/mobs/abyssal_demon_static"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.008962868118
+            },
+            "model": "item/mobs/abyssal_demon_walking_1"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.009603072983
+            },
+            "model": "item/mobs/abyssal_demon_walking_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.01024327785
+            },
+            "model": "item/mobs/abyssal_demon_attacking"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.01088348271
+            },
+            "model": "item/mobs/black_dragon_static"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.01152368758
+            },
+            "model": "item/mobs/black_dragon_walking_1"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0121638924
+            },
+            "model": "item/mobs/black_dragon_walking_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.01280409731
+            },
+            "model": "item/mobs/black_dragon_attacking"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.01344430218
+            },
+            "model": "item/mobs/turtle_static"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.01408450704
+            },
+            "model": "item/mobs/ent"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.01472471191
+            },
+            "model": "item/mobs/blackdragon"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.01536491677
+            },
+            "model": "item/mobs/bear"
+        }
+    ]
+}

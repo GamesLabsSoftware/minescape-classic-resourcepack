@@ -1,0 +1,2902 @@
+{
+    "overrides": [{
+            "model": "item/bronze_sword",
+            "predicate": {
+                "damage": 6.40204865556978E-4,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/bronze_dagger",
+            "predicate": {
+                "damage": 0.00128040973111396,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/bronze_mace",
+            "predicate": {
+                "damage": 0.00192061459667093,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/bronze_hatchet",
+            "predicate": {
+                "damage": 0.00256081946222791,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/bronze_pickaxe",
+            "predicate": {
+                "damage": 0.00320102432778489,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/bronze_2h",
+            "predicate": {
+                "damage": 0.00384122919334187,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/bronze_scimitar",
+            "predicate": {
+                "damage": 0.00448143405889885,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/bronze_battleaxe",
+            "predicate": {
+                "damage": 0.00512163892445583,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/iron_sword",
+            "predicate": {
+                "damage": 0.0057618437900128,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/iron_dagger",
+            "predicate": {
+                "damage": 0.00640204865556978,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/iron_mace",
+            "predicate": {
+                "damage": 0.00704225352112676,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/iron_hatchet",
+            "predicate": {
+                "damage": 0.00768245838668374,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/iron_pickaxe",
+            "predicate": {
+                "damage": 0.00832266325224072,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/iron_2h",
+            "predicate": {
+                "damage": 0.00896286811779769,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/iron_scimitar",
+            "predicate": {
+                "damage": 0.00960307298335467,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/iron_battleaxe",
+            "predicate": {
+                "damage": 0.0102432778489117,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/steel_sword",
+            "predicate": {
+                "damage": 0.0108834827144686,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/steel_dagger",
+            "predicate": {
+                "damage": 0.0115236875800256,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/steel_mace",
+            "predicate": {
+                "damage": 0.0121638924455826,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/steel_hatchet",
+            "predicate": {
+                "damage": 0.0128040973111396,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/steel_pickaxe",
+            "predicate": {
+                "damage": 0.0134443021766965,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/steel_2h",
+            "predicate": {
+                "damage": 0.0140845070422535,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/steel_scimitar",
+            "predicate": {
+                "damage": 0.0147247119078105,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/steel_battleaxe",
+            "predicate": {
+                "damage": 0.0153649167733675,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/mithril_sword",
+            "predicate": {
+                "damage": 0.0160051216389245,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/mithril_dagger",
+            "predicate": {
+                "damage": 0.0166453265044814,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/mithril_mace",
+            "predicate": {
+                "damage": 0.0172855313700384,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/mithril_hatchet",
+            "predicate": {
+                "damage": 0.0179257362355954,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/mithril_pickaxe",
+            "predicate": {
+                "damage": 0.0185659411011524,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/mithril_2h",
+            "predicate": {
+                "damage": 0.0192061459667093,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/mithril_scimitar",
+            "predicate": {
+                "damage": 0.0198463508322663,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/mithril_battleaxe",
+            "predicate": {
+                "damage": 0.0204865556978233,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/adamant_sword",
+            "predicate": {
+                "damage": 0.0211267605633803,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/adamant_dagger",
+            "predicate": {
+                "damage": 0.0217669654289373,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/adamant_mace",
+            "predicate": {
+                "damage": 0.0224071702944942,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/adamant_hatchet",
+            "predicate": {
+                "damage": 0.0230473751600512,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/adamant_pickaxe",
+            "predicate": {
+                "damage": 0.0236875800256082,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/adamant_2h",
+            "predicate": {
+                "damage": 0.0243277848911652,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/adamant_scimitar",
+            "predicate": {
+                "damage": 0.0249679897567222,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/adamant_battleaxe",
+            "predicate": {
+                "damage": 0.0256081946222791,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/rune_sword",
+            "predicate": {
+                "damage": 0.0262483994878361,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/rune_dagger",
+            "predicate": {
+                "damage": 0.0268886043533931,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/rune_mace",
+            "predicate": {
+                "damage": 0.0275288092189501,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/rune_hatchet",
+            "predicate": {
+                "damage": 0.028169014084507,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/rune_pickaxe",
+            "predicate": {
+                "damage": 0.028809218950064,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/rune_2h",
+            "predicate": {
+                "damage": 0.029449423815621,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/rune_scimitar",
+            "predicate": {
+                "damage": 0.030089628681178,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/rune_battleaxe",
+            "predicate": {
+                "damage": 0.030729833546735,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/dragon_sword",
+            "predicate": {
+                "damage": 0.0313700384122919,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/dragon_dagger",
+            "predicate": {
+                "damage": 0.0320102432778489,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/dragon_mace",
+            "predicate": {
+                "damage": 0.0326504481434059,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/dragon_hatchet",
+            "predicate": {
+                "damage": 0.0332906530089629,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/dragon_pickaxe",
+            "predicate": {
+                "damage": 0.0339308578745199,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/dragon_2h",
+            "predicate": {
+                "damage": 0.0345710627400768,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/dragon_scimitar",
+            "predicate": {
+                "damage": 0.0352112676056338,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/dragon_battleaxe",
+            "predicate": {
+                "damage": 0.0358514724711908,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/abyssal_whip",
+            "predicate": {
+                "damage": 0.0364916773367478,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/air_rune",
+            "predicate": {
+                "damage": 0.0377720870678617,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/water_rune",
+            "predicate": {
+                "damage": 0.0384122919334187,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/fire_rune",
+            "predicate": {
+                "damage": 0.0390524967989757,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/earth_rune",
+            "predicate": {
+                "damage": 0.0396927016645327,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/mind_rune",
+            "predicate": {
+                "damage": 0.0403329065300896,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/law_rune",
+            "predicate": {
+                "damage": 0.0409731113956466,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/nature_rune",
+            "predicate": {
+                "damage": 0.0416133162612036,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/chaos_rune",
+            "predicate": {
+                "damage": 0.0422535211267606,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/death_rune",
+            "predicate": {
+                "damage": 0.0428937259923175,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/rune_essence",
+            "predicate": {
+                "damage": 0.0435339308578745,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/tin_ore",
+            "predicate": {
+                "damage": 0.0441741357234315,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/copper_ore",
+            "predicate": {
+                "damage": 0.0448143405889885,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/gold_ore",
+            "predicate": {
+                "damage": 0.0454545454545455,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/tin_ore",
+            "predicate": {
+                "damage": 0.0460947503201024,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/iron_ore",
+            "predicate": {
+                "damage": 0.0467349551856594,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/coal_ore",
+            "predicate": {
+                "damage": 0.0473751600512164,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/mithril_ore",
+            "predicate": {
+                "damage": 0.0480153649167734,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/adamant_ore",
+            "predicate": {
+                "damage": 0.0486555697823303,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/runite_ore",
+            "predicate": {
+                "damage": 0.0492957746478873,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/bronze_bar",
+            "predicate": {
+                "damage": 0.0499359795134443,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/iron_bar",
+            "predicate": {
+                "damage": 0.0505761843790013,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/steel_bar",
+            "predicate": {
+                "damage": 0.0512163892445583,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/steel_bar",
+            "predicate": {
+                "damage": 0.0518565941101152,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/gold_bar",
+            "predicate": {
+                "damage": 0.0524967989756722,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/mithril_bar",
+            "predicate": {
+                "damage": 0.0531370038412292,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/adamant_bar",
+            "predicate": {
+                "damage": 0.0537772087067862,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/rune_bar",
+            "predicate": {
+                "damage": 0.0544174135723432,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_attack",
+            "predicate": {
+                "damage": 0.0550576184379001,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_defense",
+            "predicate": {
+                "damage": 0.0556978233034571,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_constitution",
+            "predicate": {
+                "damage": 0.0563380281690141,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_strength",
+            "predicate": {
+                "damage": 0.0569782330345711,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_ranged",
+            "predicate": {
+                "damage": 0.057618437900128,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_magic",
+            "predicate": {
+                "damage": 0.058258642765685,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_woodcutting",
+            "predicate": {
+                "damage": 0.058898847631242,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_farming",
+            "predicate": {
+                "damage": 0.059539052496799,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_firemaking",
+            "predicate": {
+                "damage": 0.060179257362356,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_cooking",
+            "predicate": {
+                "damage": 0.0608194622279129,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_smithing",
+            "predicate": {
+                "damage": 0.0614596670934699,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_mining",
+            "predicate": {
+                "damage": 0.0620998719590269,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_prayer",
+            "predicate": {
+                "damage": 0.0627400768245839,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_fishing",
+            "predicate": {
+                "damage": 0.0633802816901408,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_runecrafting",
+            "predicate": {
+                "damage": 0.0640204865556978,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skills",
+            "predicate": {
+                "damage": 0.0646606914212548,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/combat_mode",
+            "predicate": {
+                "damage": 0.0653008962868118,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/prayer_icon",
+            "predicate": {
+                "damage": 0.0659411011523688,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/wands/apprentice_wand",
+            "predicate": {
+                "damage": 0.0665813060179257,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/wands/beginners_wand",
+            "predicate": {
+                "damage": 0.0672215108834827,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/wands/masters_wand",
+            "predicate": {
+                "damage": 0.0678617157490397,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/wands/wizards_wand",
+            "predicate": {
+                "damage": 0.0685019206145967,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/wands/apocalypse_wand",
+            "predicate": {
+                "damage": 0.0691421254801537,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/magic_spell",
+            "predicate": {
+                "damage": 0.0697823303457106,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/strawberry",
+            "predicate": {
+                "damage": 0.0704225352112676,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/lemon",
+            "predicate": {
+                "damage": 0.0710627400768246,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/apple",
+            "predicate": {
+                "damage": 0.0717029449423816,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/wheat",
+            "predicate": {
+                "damage": 0.0723431498079385,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/beetroot",
+            "predicate": {
+                "damage": 0.0729833546734955,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/carrot",
+            "predicate": {
+                "damage": 0.0736235595390525,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/sugar",
+            "predicate": {
+                "damage": 0.0742637644046095,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/pumpkin",
+            "predicate": {
+                "damage": 0.0749039692701665,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/melon",
+            "predicate": {
+                "damage": 0.0755441741357234,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/shrimp",
+            "predicate": {
+                "damage": 0.0761843790012804,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/shrimp_cooked",
+            "predicate": {
+                "damage": 0.0768245838668374,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/sardine",
+            "predicate": {
+                "damage": 0.0774647887323944,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/sardine_cooked",
+            "predicate": {
+                "damage": 0.0781049935979513,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/herring",
+            "predicate": {
+                "damage": 0.0787451984635083,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/herring_cooked",
+            "predicate": {
+                "damage": 0.0793854033290653,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/anchovies",
+            "predicate": {
+                "damage": 0.0800256081946223,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/anchovies_cooked",
+            "predicate": {
+                "damage": 0.0800256081946223,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/trout",
+            "predicate": {
+                "damage": 0.0813060179257362,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/trout_cooked",
+            "predicate": {
+                "damage": 0.0819462227912932,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/salmon",
+            "predicate": {
+                "damage": 0.0825864276568502,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/salmon_cooked",
+            "predicate": {
+                "damage": 0.0832266325224072,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/tuna",
+            "predicate": {
+                "damage": 0.0838668373879642,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/tuna_cooked",
+            "predicate": {
+                "damage": 0.0845070422535211,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/lobster",
+            "predicate": {
+                "damage": 0.0851472471190781,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/lobster_cooked",
+            "predicate": {
+                "damage": 0.0857874519846351,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/swordfish",
+            "predicate": {
+                "damage": 0.0864276568501921,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/swordfish_cooked",
+            "predicate": {
+                "damage": 0.087067861715749,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/shark",
+            "predicate": {
+                "damage": 0.087708066581306,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/shark_cooked",
+            "predicate": {
+                "damage": 0.088348271446863,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/chicken",
+            "predicate": {
+                "damage": 0.08898847631242,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/chicken_cooked",
+            "predicate": {
+                "damage": 0.089628681177977,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/sheep",
+            "predicate": {
+                "damage": 0.0902688860435339,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/sheep_cooked",
+            "predicate": {
+                "damage": 0.0909090909090909,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/beef",
+            "predicate": {
+                "damage": 0.0915492957746479,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/beef_cooked",
+            "predicate": {
+                "damage": 0.0921895006402049,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/bear",
+            "predicate": {
+                "damage": 0.0928297055057618,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/bear_cooked",
+            "predicate": {
+                "damage": 0.0934699103713188,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/fishing_net",
+            "predicate": {
+                "damage": 0.0941101152368758,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/bait_rod",
+            "predicate": {
+                "damage": 0.0947503201024328,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/fly_rod",
+            "predicate": {
+                "damage": 0.0953905249679898,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/cage",
+            "predicate": {
+                "damage": 0.0960307298335467,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/harpoon",
+            "predicate": {
+                "damage": 0.0966709346991037,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/oak_logs",
+            "predicate": {
+                "damage": 0.0973111395646607,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/dark_oak_logs",
+            "predicate": {
+                "damage": 0.0979513444302177,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/spruce_logs",
+            "predicate": {
+                "damage": 0.0985915492957746,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/jungle_logs",
+            "predicate": {
+                "damage": 0.0992317541613316,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/birch_logs",
+            "predicate": {
+                "damage": 0.0998719590268886,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/acacia_logs",
+            "predicate": {
+                "damage": 0.100512163892446,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/bows/arrow",
+            "predicate": {
+                "damage": 0.101152368758003,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/xp_bottle",
+            "predicate": {
+                "damage": 0.10179257362356,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/bones",
+            "predicate": {
+                "damage": 0.102432778489117,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/big_bones",
+            "predicate": {
+                "damage": 0.103072983354673,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/enormous_bones",
+            "predicate": {
+                "damage": 0.10371318822023,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/coins",
+            "predicate": {
+                "damage": 0.104353393085787,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/coins_2",
+            "predicate": {
+                "damage": 0.104993597951344,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/coins_3",
+            "predicate": {
+                "damage": 0.105633802816901,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/coins_4",
+            "predicate": {
+                "damage": 0.106274007682458,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/coins_5",
+            "predicate": {
+                "damage": 0.106914212548015,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/coins_25",
+            "predicate": {
+                "damage": 0.107554417413572,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/coins_100",
+            "predicate": {
+                "damage": 0.108194622279129,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/coins_250",
+            "predicate": {
+                "damage": 0.108834827144686,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/coins_1000",
+            "predicate": {
+                "damage": 0.109475032010243,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/coins_10000",
+            "predicate": {
+                "damage": 0.1101152368758,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/banana",
+            "predicate": {
+                "damage": 0.110755441741357,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/coins_100000",
+            "predicate": {
+                "damage": 0.111395646606914,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/coins_1000000",
+            "predicate": {
+                "damage": 0.112035851472471,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/thieving",
+            "predicate": {
+                "damage": 0.112676056338028,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/forgers_mould",
+            "predicate": {
+                "damage": 0.113316261203585,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_agility",
+            "predicate": {
+                "damage": 0.113956466069142,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_herblore",
+            "predicate": {
+                "damage": 0.114596670934699,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/shears",
+            "predicate": {
+                "damage": 0.115236875800256,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/hoe",
+            "predicate": {
+                "damage": 0.115877080665813,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/holidayitems/halloweenmask_red",
+            "predicate": {
+                "damage": 0.11651728553137,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/holidayitems/halloweenmask_blue",
+            "predicate": {
+                "damage": 0.117157490396927,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/holidayitems/halloweenmask_green",
+            "predicate": {
+                "damage": 0.117797695262484,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_slayer",
+            "predicate": {
+                "damage": 0.118437900128041,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_bronze_sword",
+            "predicate": {
+                "damage": 0.119078104993598,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_bronze_dagger",
+            "predicate": {
+                "damage": 0.1197183098591549,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_bronze_mace",
+            "predicate": {
+                "damage": 0.1203585147247119,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_bronze_hatchet",
+            "predicate": {
+                "damage": 0.1209987195902689,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_bronze_pickaxe",
+            "predicate": {
+                "damage": 0.1216389244558259,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_bronze_2h",
+            "predicate": {
+                "damage": 0.1222791293213828,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_bronze_scimitar",
+            "predicate": {
+                "damage": 0.1229193341869398,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_bronze_battleaxe",
+            "predicate": {
+                "damage": 0.1235595390524968,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_iron_sword",
+            "predicate": {
+                "damage": 0.1241997439180538,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_iron_dagger",
+            "predicate": {
+                "damage": 0.1248399487836108,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_iron_mace",
+            "predicate": {
+                "damage": 0.1254801536491677,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_iron_hatchet",
+            "predicate": {
+                "damage": 0.1261203585147247,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_iron_pickaxe",
+            "predicate": {
+                "damage": 0.1267605633802817,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_iron_2h",
+            "predicate": {
+                "damage": 0.1274007682458387,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_iron_scimitar",
+            "predicate": {
+                "damage": 0.1280409731113957,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_iron_battleaxe",
+            "predicate": {
+                "damage": 0.1286811779769526,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_steel_sword",
+            "predicate": {
+                "damage": 0.1293213828425096,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_steel_dagger",
+            "predicate": {
+                "damage": 0.1299615877080666,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_steel_mace",
+            "predicate": {
+                "damage": 0.1306017925736236,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_steel_hatchet",
+            "predicate": {
+                "damage": 0.1312419974391805,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_steel_pickaxe",
+            "predicate": {
+                "damage": 0.1318822023047375,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_steel_2h",
+            "predicate": {
+                "damage": 0.1325224071702945,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_steel_scimitar",
+            "predicate": {
+                "damage": 0.1331626120358515,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_steel_battleaxe",
+            "predicate": {
+                "damage": 0.1338028169014085,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_mithril_sword",
+            "predicate": {
+                "damage": 0.1344430217669654,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_mithril_dagger",
+            "predicate": {
+                "damage": 0.1350832266325224,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_mithril_mace",
+            "predicate": {
+                "damage": 0.1357234314980794,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_mithril_hatchet",
+            "predicate": {
+                "damage": 0.1363636363636364,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_mithril_pickaxe",
+            "predicate": {
+                "damage": 0.1370038412291934,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_mithril_2h",
+            "predicate": {
+                "damage": 0.1376440460947503,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_mithril_scimitar",
+            "predicate": {
+                "damage": 0.1382842509603073,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_mithril_battleaxe",
+            "predicate": {
+                "damage": 0.1389244558258643,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_adamant_sword",
+            "predicate": {
+                "damage": 0.1395646606914213,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_adamant_dagger",
+            "predicate": {
+                "damage": 0.1402048655569782,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_adamant_mace",
+            "predicate": {
+                "damage": 0.1408450704225352,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_adamant_hatchet",
+            "predicate": {
+                "damage": 0.1414852752880922,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_adamant_pickaxe",
+            "predicate": {
+                "damage": 0.1421254801536492,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_adamant_2h",
+            "predicate": {
+                "damage": 0.1427656850192062,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_adamant_scimitar",
+            "predicate": {
+                "damage": 0.1434058898847631,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_adamant_battleaxe",
+            "predicate": {
+                "damage": 0.1440460947503201,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_rune_sword",
+            "predicate": {
+                "damage": 0.1446862996158771,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_rune_dagger",
+            "predicate": {
+                "damage": 0.1453265044814341,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_rune_mace",
+            "predicate": {
+                "damage": 0.145966709346991,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_rune_hatchet",
+            "predicate": {
+                "damage": 0.146606914212548,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_rune_pickaxe",
+            "predicate": {
+                "damage": 0.147247119078105,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_rune_2h",
+            "predicate": {
+                "damage": 0.147887323943662,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_rune_scimitar",
+            "predicate": {
+                "damage": 0.1485275288092189,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_rune_battleaxe",
+            "predicate": {
+                "damage": 0.1491677336747759,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_dragon_sword",
+            "predicate": {
+                "damage": 0.1498079385403329,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_dragon_dagger",
+            "predicate": {
+                "damage": 0.1504481434058899,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_dragon_mace",
+            "predicate": {
+                "damage": 0.1510883482714469,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_dragon_hatchet",
+            "predicate": {
+                "damage": 0.1517285531370039,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_dragon_pickaxe",
+            "predicate": {
+                "damage": 0.1523687580025608,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_dragon_2h",
+            "predicate": {
+                "damage": 0.1530089628681178,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_dragon_scimitar",
+            "predicate": {
+                "damage": 0.1536491677336748,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_dragon_battleaxe",
+            "predicate": {
+                "damage": 0.1542893725992318,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/noted_abyssal_whip",
+            "predicate": {
+                "damage": 0.1549295774647887,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/noted_air_rune",
+            "predicate": {
+                "damage": 0.1562099871959027,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/noted_water_rune",
+            "predicate": {
+                "damage": 0.1568501920614597,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/noted_fire_rune",
+            "predicate": {
+                "damage": 0.1574903969270166,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/noted_earth_rune",
+            "predicate": {
+                "damage": 0.1581306017925736,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/noted_mind_rune",
+            "predicate": {
+                "damage": 0.1587708066581306,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/noted_law_rune",
+            "predicate": {
+                "damage": 0.1594110115236876,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/noted_nature_rune",
+            "predicate": {
+                "damage": 0.1600512163892446,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/noted_chaos_rune",
+            "predicate": {
+                "damage": 0.1606914212548016,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/noted_death_rune",
+            "predicate": {
+                "damage": 0.1613316261203585,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/runes/noted_rune_essence",
+            "predicate": {
+                "damage": 0.1619718309859155,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_tin_ore",
+            "predicate": {
+                "damage": 0.1626120358514725,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_copper_ore",
+            "predicate": {
+                "damage": 0.1632522407170295,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_gold_ore",
+            "predicate": {
+                "damage": 0.1638924455825864,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_tin_ore",
+            "predicate": {
+                "damage": 0.1645326504481434,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_iron_ore",
+            "predicate": {
+                "damage": 0.1651728553137004,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_coal_ore",
+            "predicate": {
+                "damage": 0.1658130601792574,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_mithril_ore",
+            "predicate": {
+                "damage": 0.1664532650448143,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_adamant_ore",
+            "predicate": {
+                "damage": 0.1670934699103713,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_runite_ore",
+            "predicate": {
+                "damage": 0.1677336747759283,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_bronze_bar",
+            "predicate": {
+                "damage": 0.1683738796414853,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_iron_bar",
+            "predicate": {
+                "damage": 0.1690140845070423,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_steel_bar",
+            "predicate": {
+                "damage": 0.1696542893725992,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_steel_bar",
+            "predicate": {
+                "damage": 0.1702944942381562,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_gold_bar",
+            "predicate": {
+                "damage": 0.1709346991037132,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_mithril_bar",
+            "predicate": {
+                "damage": 0.1715749039692702,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_adamant_bar",
+            "predicate": {
+                "damage": 0.1722151088348271,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_rune_bar",
+            "predicate": {
+                "damage": 0.1728553137003841,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_attack",
+            "predicate": {
+                "damage": 0.1734955185659411,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_defense",
+            "predicate": {
+                "damage": 0.1741357234314981,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_constitution",
+            "predicate": {
+                "damage": 0.1747759282970551,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_strength",
+            "predicate": {
+                "damage": 0.175416133162612,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_ranged",
+            "predicate": {
+                "damage": 0.176056338028169,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_magic",
+            "predicate": {
+                "damage": 0.176696542893726,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_woodcutting",
+            "predicate": {
+                "damage": 0.177336747759283,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_farming",
+            "predicate": {
+                "damage": 0.17797695262484,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_firemaking",
+            "predicate": {
+                "damage": 0.1786171574903969,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_cooking",
+            "predicate": {
+                "damage": 0.1792573623559539,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_smithing",
+            "predicate": {
+                "damage": 0.1798975672215109,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_mining",
+            "predicate": {
+                "damage": 0.1805377720870679,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_prayer",
+            "predicate": {
+                "damage": 0.1811779769526248,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_fishing",
+            "predicate": {
+                "damage": 0.1818181818181818,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_runecrafting",
+            "predicate": {
+                "damage": 0.1824583866837388,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skills",
+            "predicate": {
+                "damage": 0.1830985915492958,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_combat_mode",
+            "predicate": {
+                "damage": 0.1837387964148528,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_prayer_icon",
+            "predicate": {
+                "damage": 0.1843790012804098,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/wands/noted_apprentice_wand",
+            "predicate": {
+                "damage": 0.1850192061459667,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/wands/noted_beginners_wand",
+            "predicate": {
+                "damage": 0.1856594110115237,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/wands/noted_masters_wand",
+            "predicate": {
+                "damage": 0.1862996158770807,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/wands/noted_wizards_wand",
+            "predicate": {
+                "damage": 0.1869398207426376,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/wands/noted_apocalypse_wand",
+            "predicate": {
+                "damage": 0.1875800256081946,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_magic_spell",
+            "predicate": {
+                "damage": 0.1882202304737516,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_strawberry",
+            "predicate": {
+                "damage": 0.1888604353393086,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_lemon",
+            "predicate": {
+                "damage": 0.1895006402048656,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_apple",
+            "predicate": {
+                "damage": 0.1901408450704225,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_wheat",
+            "predicate": {
+                "damage": 0.1907810499359795,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_beetroot",
+            "predicate": {
+                "damage": 0.1914212548015365,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_carrot",
+            "predicate": {
+                "damage": 0.1920614596670935,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_sugar",
+            "predicate": {
+                "damage": 0.1927016645326505,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_pumpkin",
+            "predicate": {
+                "damage": 0.1933418693982074,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_melon",
+            "predicate": {
+                "damage": 0.1939820742637644,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_shrimp",
+            "predicate": {
+                "damage": 0.1946222791293214,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_shrimp_cooked",
+            "predicate": {
+                "damage": 0.1952624839948784,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_sardine",
+            "predicate": {
+                "damage": 0.1959026888604353,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_sardine_cooked",
+            "predicate": {
+                "damage": 0.1965428937259923,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_herring",
+            "predicate": {
+                "damage": 0.1971830985915493,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_herring_cooked",
+            "predicate": {
+                "damage": 0.1978233034571063,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_anchovies",
+            "predicate": {
+                "damage": 0.1984635083226633,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_trout",
+            "predicate": {
+                "damage": 0.1997439180537772,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_trout_cooked",
+            "predicate": {
+                "damage": 0.2003841229193342,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_salmon",
+            "predicate": {
+                "damage": 0.2010243277848912,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_salmon_cooked",
+            "predicate": {
+                "damage": 0.2016645326504482,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_tuna",
+            "predicate": {
+                "damage": 0.2023047375160051,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_tuna_cooked",
+            "predicate": {
+                "damage": 0.2029449423815621,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_lobster",
+            "predicate": {
+                "damage": 0.2035851472471191,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_lobster_cooked",
+            "predicate": {
+                "damage": 0.2042253521126761,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_swordfish",
+            "predicate": {
+                "damage": 0.204865556978233,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_swordfish_cooked",
+            "predicate": {
+                "damage": 0.20550576184379,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_shark",
+            "predicate": {
+                "damage": 0.206145966709347,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_shark_cooked",
+            "predicate": {
+                "damage": 0.206786171574904,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_chicken",
+            "predicate": {
+                "damage": 0.207426376440461,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_chicken_cooked",
+            "predicate": {
+                "damage": 0.2080665813060179,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_sheep",
+            "predicate": {
+                "damage": 0.2087067861715749,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_sheep_cooked",
+            "predicate": {
+                "damage": 0.2093469910371319,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_beef",
+            "predicate": {
+                "damage": 0.2099871959026889,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_beef_cooked",
+            "predicate": {
+                "damage": 0.2106274007682458,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_bear",
+            "predicate": {
+                "damage": 0.2112676056338028,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_bear_cooked",
+            "predicate": {
+                "damage": 0.2119078104993598,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_fishing_net",
+            "predicate": {
+                "damage": 0.2125480153649168,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_bait_rod",
+            "predicate": {
+                "damage": 0.2131882202304737,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_fly_rod",
+            "predicate": {
+                "damage": 0.2138284250960307,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_cage",
+            "predicate": {
+                "damage": 0.2144686299615877,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_harpoon",
+            "predicate": {
+                "damage": 0.2151088348271447,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_oak_logs",
+            "predicate": {
+                "damage": 0.2157490396927017,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_dark_oak_logs",
+            "predicate": {
+                "damage": 0.2163892445582587,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_spruce_logs",
+            "predicate": {
+                "damage": 0.2170294494238156,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_jungle_logs",
+            "predicate": {
+                "damage": 0.2176696542893726,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_birch_logs",
+            "predicate": {
+                "damage": 0.2183098591549296,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_acacia_logs",
+            "predicate": {
+                "damage": 0.2189500640204866,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/bows/noted_arrow",
+            "predicate": {
+                "damage": 0.2195902688860435,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_xp_bottle",
+            "predicate": {
+                "damage": 0.2202304737516005,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_bones",
+            "predicate": {
+                "damage": 0.2208706786171575,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_big_bones",
+            "predicate": {
+                "damage": 0.2215108834827145,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/materials/noted_enormous_bones",
+            "predicate": {
+                "damage": 0.2221510883482714,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_coins",
+            "predicate": {
+                "damage": 0.2227912932138284,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_coins_2",
+            "predicate": {
+                "damage": 0.2234314980793854,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_coins_3",
+            "predicate": {
+                "damage": 0.2240717029449424,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_coins_4",
+            "predicate": {
+                "damage": 0.2247119078104994,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_coins_5",
+            "predicate": {
+                "damage": 0.2253521126760563,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_coins_25",
+            "predicate": {
+                "damage": 0.2259923175416133,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_coins_100",
+            "predicate": {
+                "damage": 0.2266325224071703,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_coins_250",
+            "predicate": {
+                "damage": 0.2272727272727273,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_coins_1000",
+            "predicate": {
+                "damage": 0.2279129321382843,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_coins_10000",
+            "predicate": {
+                "damage": 0.2285531370038412,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/food/noted_banana",
+            "predicate": {
+                "damage": 0.2291933418693982,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_coins_100000",
+            "predicate": {
+                "damage": 0.2298335467349552,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_coins_1000000",
+            "predicate": {
+                "damage": 0.2304737516005122,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_thieving",
+            "predicate": {
+                "damage": 0.2311139564660692,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_forgers_mould",
+            "predicate": {
+                "damage": 0.2317541613316261,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_agility",
+            "predicate": {
+                "damage": 0.2323943661971831,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_herblore",
+            "predicate": {
+                "damage": 0.2330345710627401,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_shears",
+            "predicate": {
+                "damage": 0.2336747759282971,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/noted_hoe",
+            "predicate": {
+                "damage": 0.234314980793854,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/holidayitems/noted_halloweenmask_red",
+            "predicate": {
+                "damage": 0.234955185659411,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/holidayitems/noted_halloweenmask_blue",
+            "predicate": {
+                "damage": 0.235595390524968,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/holidayitems/noted_halloweenmask_green",
+            "predicate": {
+                "damage": 0.236235595390525,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/noted_skill_slayer",
+            "predicate": {
+                "damage": 0.236875800256082,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/backpack",
+            "predicate": {
+                "damage": 0.237516005121639000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/elemental_sword_inferno",
+            "predicate": {
+                "damage": 0.238156209987196000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/elemental_sword_crystalline",
+            "predicate": {
+                "damage": 0.238796414852753000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/dragon_hoe",
+            "predicate": {
+                "damage": 0.239436619718310000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/elemental_sword_terra",
+            "predicate": {
+                "damage": 0.240076824583867000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/elemental_sword_zephyr",
+            "predicate": {
+                "damage": 0.240717029449424000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/sword_of_elements",
+            "predicate": {
+                "damage": 0.241357234314981000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_exploring",
+            "predicate": {
+                "damage": 0.241997439180538000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/icons/skill_construction",
+            "predicate": {
+                "damage": 0.242637644046095000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/shields/bronze_shield",
+            "predicate": {
+                "damage": 0.243277848911652000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/shields/iron_shield",
+            "predicate": {
+                "damage": 0.243918053777209000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/shields/steel_shield",
+            "predicate": {
+                "damage": 0.244558258642766000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/shields/black_shield",
+            "predicate": {
+                "damage": 0.245198463508323000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/shields/mithril_shield",
+            "predicate": {
+                "damage": 0.245838668373880000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/shields/adamant_shield",
+            "predicate": {
+                "damage": 0.246478873239437000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/shields/rune_shield",
+            "predicate": {
+                "damage": 0.247119078104994000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/shields/dragon_shield",
+            "predicate": {
+                "damage": 0.247759282970551000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/key",
+            "predicate": {
+                "damage": 0.248399487836108000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/hammer",
+            "predicate": {
+                "damage": 0.249039692701665000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/labtoken",
+            "predicate": {
+                "damage": 0.249679897567222000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/potion_combat",
+            "predicate": {
+                "damage": 0.250320102432778000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/potion_dark",
+            "predicate": {
+                "damage": 0.250960307298335000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/potion_defense",
+            "predicate": {
+                "damage": 0.251600512163892000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/potion_god",
+            "predicate": {
+                "damage": 0.252240717029449000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/potion_prayer",
+            "predicate": {
+                "damage": 0.252880921895006000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/potion_speed",
+            "predicate": {
+                "damage": 0.253521126760563000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/potion_stamina",
+            "predicate": {
+                "damage": 0.254161331626120000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/potion_strength",
+            "predicate": {
+                "damage": 0.254801536491677000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/potion_unstable",
+            "predicate": {
+                "damage": 0.255441741357234000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "block/oak_planks",
+            "predicate": {
+                "damage": 0.256081946222791000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "block/dark_oak_planks",
+            "predicate": {
+                "damage": 0.256722151088348000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "block/spruce_planks",
+            "predicate": {
+                "damage": 0.257362355953905000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "block/birch_planks",
+            "predicate": {
+                "damage": 0.258002560819462000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "block/jungle_planks",
+            "predicate": {
+                "damage": 0.258642765685019000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "block/acacia_planks",
+            "predicate": {
+                "damage": 0.259282970550576000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "block/emerald_block",
+            "predicate": {
+                "damage": 0.259923175416133000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "block/furnace",
+            "predicate": {
+                "damage": 0.260563380281690000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "block/brewing_stand",
+            "predicate": {
+                "damage": 0.261203585147247000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "block/cobblestone",
+            "predicate": {
+                "damage": 0.261843790012804000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "block/stonebrick_normal",
+            "predicate": {
+                "damage": 0.262483994878361000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "block/glass",
+            "predicate": {
+                "damage": 0.263124199743918000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "block/podzol",
+            "predicate": {
+                "damage": 0.263764404609475000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "block/anvil",
+            "predicate": {
+                "damage": 0.264404609475032000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/ender_chest",
+            "predicate": {
+                "damage": 0.265044814340589000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/darkmetal_scimitar",
+            "predicate": {
+                "damage": 0.265685019206146000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/dragon_harpoon",
+            "predicate": {
+                "damage": 0.266325224071703000,
+                "damaged": 0
+            }
+        },
+        {
+            "model": "item/tools/teleport_tab",
+            "predicate": {
+                "damage": 0.266965428937260000,
+                "damaged": 0
+            }
+        }
+    ],
+    "parent": "item/stone"
+}
